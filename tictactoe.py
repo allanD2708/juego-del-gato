@@ -63,10 +63,7 @@ def reiniciar_juego():
     game_over = False  # Permitir que el bucle principal corra de nuevo
 
 #---------------------------------------------------------------------------------------------
-def allan():
-    x = "Al"
-    y = "lan"
-    return x+y
+
 # ----------------------------------------------------
 
 def graficar_board():
