@@ -63,7 +63,9 @@ def reiniciar_juego():
     game_over = False  # Permitir que el bucle principal corra de nuevo
 
 #---------------------------------------------------------------------------------------------
-
+def allan():
+    return "Allan"
+# ----------------------------------------------------
 
 def graficar_board():
     screen.blit(fondo,(0,0))
